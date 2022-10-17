@@ -9,3 +9,5 @@ Our code will be released soon
 Here, we release our well-trained model and a test log file.
 
 Model: [Baidu Netdisk](https://pan.baidu.com/s/1xyv_vkHW8jKC3Y9ohdZsMg?pwd=1234)
+
+Log: [Baidu Netdisk](https://pan.baidu.com/s/1xyv_vkHW8jKC3Y9ohdZsMg?pwd=1234)
